@@ -1,0 +1,25 @@
+/**{
+  border: 1px solid black
+}*/
+.top{
+margin-bottom: 20px;
+}
+p{
+  font-size: 25px;
+}
+h1{
+  text-align: center;
+}
+#nyronimg{
+  border-radius: 50px;
+}
+.linkimages{
+  margin-left: 25px;
+}
+#skills{
+  margin-top: 15px;
+
+}
+#skills:hover{
+  padding: 20px;
+}
