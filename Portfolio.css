@@ -5,12 +5,17 @@ font-family: 'Libre Baskerville', serif;
   padding: 10px;
   background-color: skyblue;
 }
-header{
-  border-bottom: 1px solid black;
-}
 h1{
   padding-top: 20px;
   font-size: 25px;
+}
+h2{
+  text-align: center;
+}
+.image{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 .linkimages{
   margin-left: 25px;
@@ -54,5 +59,4 @@ section{
     width: 40px;
     height: 40px;
   }
-
 }
